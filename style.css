@@ -18,3 +18,11 @@ h2 {
 h3 {
 	background-color: skyblue;
 }
+div#zentai {
+	display: grid;
+	grid-gap: 12px;
+}
+div#zentai > div {
+	padding: 5px;
+	background-color: whitesmoke;
+}
