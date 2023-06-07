@@ -4,12 +4,17 @@ p {
 
 h1 {
 	color: white;
-	text-shadow: rgb(76, 0, 255) 1px 0 10px;;
+	text-shadow: blue 1px 0 10px;;
+	border: 5px solid red;
+	background-color: aqua;
 }
 
 h2 {
 	margin: 5px;
 	font-family: cursive;
-	color: #00d0ff;
+	color: orange;
 	background: linear-gradient(90deg,white,#ffefaf);
+}
+h3 {
+	background-color: skyblue;
 }
