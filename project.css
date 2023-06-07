@@ -13,7 +13,7 @@ h2 {
     text-align: center;
 }
 li {
-    background-color: aquamarine;
+    background-color: white;
     list-style-type: none;
 }
 label {
@@ -24,12 +24,12 @@ label {
 body {
     margin: 0;
     padding: 20px;
+    background-image: url("https://ddnavi.com/wp-content/uploads/2018/05/tikyuunozatugaku_1.jpg");
 }
 p {
     text-align: center;
 }
-div.risuto {
+div.toshi {
     text-align: center;
-    background-color: white;
     border: 10px solid aquamarine;
 }
