@@ -6,7 +6,7 @@ h1 {
     background-color: aqua;
     text-shadow: blue 5px 0 10px;;
     font-size: 50px;
-    border: 5px solid blue;
+    border: 15px solid blue;
     text-align: center;
 }
 h2 {
@@ -18,7 +18,8 @@ li {
 }
 label {
     background-color: white;
-    border: 2px solid red;
+    border: 5px solid red;
+    font-size: 15px;
 }
 body {
     margin: 0;
@@ -30,5 +31,5 @@ p {
 div.risuto {
     text-align: center;
     background-color: white;
-    border: 5px solid red;
+    border: 10px solid aquamarine;
 }
